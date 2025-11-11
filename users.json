@@ -1,0 +1,35 @@
+{
+    "admin": {
+        "password": "scrypt:32768:8:1$UVOHYMXH3dcl6KBJ$95ca3b695dca7430ca101f8df1edb7e6f2df135098ef918b22a673f1da27f53798fea67b2296cf32939bd2a206fae0bbe690409d862736158204fe0d71749cdf",
+        "name": "Admin User",
+        "email": "admin@example.com"
+    },
+    "wi._ssaaal": {
+        "password": "scrypt:32768:8:1$hiswReD3koN97ETG$8acba9b5fb2b66c22043bfd45bd3508ecadc6519e106193a3309d2ff1abe5926f83b04f9b7a0d41e3ba91e4622e1cbe5f6ff874dbe781f7e143bfba85353e05e",
+        "name": "wissal ouahbi",
+        "email": "wissalouahbi2@gmail.com"
+    },
+    "khadeja_1": {
+        "password": "scrypt:32768:8:1$McJeKZne3MURrW9D$7e658b95fd495f959b0f436f696c5f5163bd223de882aee35b6775fd1228731b7b1e341707fb8d668a3cca1a0e302a93810d7fa40f18bfe17133c1cfbbfcdbd8",
+        "name": "khadija hinda",
+        "email": "khadijahinda00@gmail.com"
+    },
+    "wissal_uahbi": {
+        "password": "scrypt:32768:8:1$N0aLfW8FJvjFCqv4$a92ea9cf1c3b08374e8b0d394d3e217c4f81d54bd453f5facb038cda8e127fe9ace494cda488ac10263503f335fa0903cb45638456e63f2c7cf34412d93d3868",
+        "name": "wissal uahbi",
+        "email": "wiassal.ouahbi@icloud.com",
+        "role": "doctor"
+    },
+    "its_yousha": {
+        "password": "scrypt:32768:8:1$ZV66iMVhHxAnaoJO$05b6dafc8a396c2cec0ee75563f0b4cf3df34245b8701251892870979686c71b7f14f9d761c4be1d45ca99cf6c3971f0cbb3d98d6338c6dd97358cd5dc0edeae",
+        "name": "aya mabchour",
+        "email": "ayasair20@gmail.com",
+        "role": "patient"
+    },
+    "sami_ra12": {
+        "password": "scrypt:32768:8:1$FnM4wpvq7B2XdLPJ$43a5f19ab6cc58c7c41e7365dbaa1d863969f98c84a186fc8444ae882491e85015408d3d13b7d3c2e314efb11045b3759d570b7c152156d885e57ffd1bf0d9f5",
+        "name": "samira kasbahi",
+        "email": "samirakasbahi1@gmail.com",
+        "role": "patient"
+    }
+}

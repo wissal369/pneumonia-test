@@ -1,0 +1,142 @@
+[
+    {
+        "user": "samira kasbahi",
+        "user_id": "sami_ra12",
+        "result": {
+            "normal": 64.0,
+            "pneumonia": 36.0,
+            "has_pneumonia": false,
+            "confidence": 64.0,
+            "severity": "Low",
+            "severity_color": "green",
+            "timestamp": "2025-11-11 21:35:46",
+            "filename": "20251111_213546_BACTERIA-840611-0005.jpeg"
+        }
+    },
+    {
+        "user": "wissal ouahbi",
+        "user_id": "wi._ssaaal",
+        "result": {
+            "normal": 31.5,
+            "pneumonia": 68.5,
+            "has_pneumonia": true,
+            "confidence": 68.5,
+            "severity": "Moderate",
+            "severity_color": "yellow",
+            "timestamp": "2025-11-11 16:36:14",
+            "filename": "20251111_163614_BACTERIA-227418-0004.jpeg"
+        }
+    },
+    {
+        "user": "khadija hinda",
+        "user_id": "khadeja_1",
+        "result": {
+            "normal": 81.3,
+            "pneumonia": 18.7,
+            "has_pneumonia": false,
+            "confidence": 81.3,
+            "severity": "Low",
+            "severity_color": "green",
+            "timestamp": "2025-11-11 00:10:16",
+            "filename": "20251111_001016_NORMAL-152130-0001.jpeg"
+        }
+    },
+    {
+        "user": "aya mabchour",
+        "user_id": "its_yousha",
+        "result": {
+            "normal": 75.0,
+            "pneumonia": 25.0,
+            "has_pneumonia": false,
+            "confidence": 75.0,
+            "severity": "Low",
+            "severity_color": "green",
+            "timestamp": "2025-11-10 22:42:04",
+            "filename": "20251110_224204_NORMAL-472699-0001.jpeg"
+        }
+    },
+    {
+        "user": "wissal ouahbi",
+        "user_id": "wi._ssaaal",
+        "result": {
+            "normal": 58.0,
+            "pneumonia": 42.0,
+            "has_pneumonia": false,
+            "confidence": 58.0,
+            "severity": "Low",
+            "severity_color": "green",
+            "timestamp": "2025-11-10 22:37:42",
+            "filename": "20251110_223742_NORMAL-284601-0001.jpeg"
+        }
+    },
+    {
+        "user": "wissal uahbi",
+        "user_id": "wissal_uahbi",
+        "result": {
+            "normal": 82.7,
+            "pneumonia": 17.3,
+            "has_pneumonia": false,
+            "confidence": 82.7,
+            "severity": "Low",
+            "severity_color": "green",
+            "timestamp": "2025-11-10 22:33:21",
+            "filename": "20251110_223321_BACTERIA-840611-0001.jpeg"
+        }
+    },
+    {
+        "user": "wissal ouahbi",
+        "user_id": "wi._ssaaal",
+        "result": {
+            "normal": 83.0,
+            "pneumonia": 17.0,
+            "has_pneumonia": false,
+            "confidence": 83.0,
+            "severity": "Low",
+            "severity_color": "green",
+            "timestamp": "2025-11-10 22:30:55",
+            "filename": "20251110_223054_BACTERIA-518323-0002.jpeg"
+        }
+    },
+    {
+        "user": "khadija hinda",
+        "user_id": "khadeja_1",
+        "result": {
+            "normal": 65.4,
+            "pneumonia": 34.6,
+            "has_pneumonia": false,
+            "confidence": 65.4,
+            "severity": "Low",
+            "severity_color": "green",
+            "timestamp": "2025-11-10 22:14:37",
+            "filename": "20251110_221437_BACTERIA-545831-0001.jpeg"
+        }
+    },
+    {
+        "user": "wissal ouahbi",
+        "user_id": "wi._ssaaal",
+        "result": {
+            "normal": 59.5,
+            "pneumonia": 40.5,
+            "has_pneumonia": false,
+            "confidence": 59.5,
+            "severity": "Low",
+            "severity_color": "green",
+            "timestamp": "2025-11-10 22:13:59",
+            "filename": "20251110_221359_BACTERIA-840611-0001.jpeg"
+        }
+    },
+    {
+        "user": "wissal ouahbi",
+        "user_id": "wi._ssaaal",
+        "result": {
+            "normal": 46.7,
+            "pneumonia": 53.3,
+            "has_pneumonia": true,
+            "confidence": 53.3,
+            "severity": "Moderate",
+            "severity_color": "yellow",
+            "timestamp": "2025-11-10 22:07:43",
+            "filename": "20251110_220743_BACTERIA-840611-0001.jpeg"
+        }
+    }
+]
